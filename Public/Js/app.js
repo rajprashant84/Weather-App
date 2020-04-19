@@ -1,6 +1,6 @@
 
 
-console.log('Client side Java script loades')
+//console.log('Client side Java script loades')
 
 
 
